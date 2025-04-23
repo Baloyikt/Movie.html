@@ -1,0 +1,47 @@
+body{
+    background-color: whitesmoke;
+}
+.container{
+    justify-items: center;
+
+
+}
+ .container-0{
+    position: relative;
+    margin: 32px auto;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+ }
+ .container-1{
+    position: relative;
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px; 
+ }
+ h1{
+    padding-top: 4rem;
+ }
+ h2{
+    padding-top: 5rem;
+ }
+p{
+    text-align: center;
+}
+
+
+.img-netflixIcon {
+    height: 90px;
+    margin-left: 40px;
+
+}  
+    
+img.icon{
+    display: flex;
+}
+
